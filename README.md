@@ -1,5 +1,7 @@
 # Rocket Dodger Game
 
+![Screenshot of the Dodger Game running](https://github.com/Habeneheir/Rocket-Dodger-Game/blob/main/Dodger%20game.png)
+
 ## Description
 
 Rocket Dodger Game is a simple turtle graphics-based game where the player controls a rocket to avoid obstacles and survive as long as possible.
